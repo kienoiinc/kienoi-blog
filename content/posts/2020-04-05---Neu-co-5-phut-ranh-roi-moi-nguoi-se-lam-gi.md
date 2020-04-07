@@ -66,9 +66,4 @@ Nếu bạn chưa tự tin lắm vào CV của mình, có thể gửi tới chuy
 
 Tips này dành riêng cho bạn nào hay phải làm việc nơi đông người hoặc ở các Co-working space mà cần có không gian riêng để tập trung làm việc, các bạn có thể thử tham khảo nghe nhạc ở [trang này](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.noisli.com%2F%3Ffbclid%3DIwAR390ZXplo7FCS7fGaLychvoDaRfB8wVtUQfCERxMVSJfOpModNhHbLMXUg&h=AT07yL7Wpl3-7HN-z7nO_CvQkVy0kr2GrP6Ci7ptZXYGAnghQiOh5_b3-sLpJDxCUEqs1WkhNjHDpetavZB_VuQupYYmTnkcdBBhXdTI3_ZLhpGvm-7q0xj5UJdZUZo-eQnrRd4wzrzUXN4wDllpBQ) xem. Cắm tai nghe vào và mở maximum, tận hưởng không gian thiên nhiên giúp bạn làm việc hiệu quả hơn.
 
-<figure class="float-right" style="width: 240px">
-	<img src="/media/left_2020-04-05T09.jpg" alt="Kienoi">
-	<figcaption>Johannes Gutenberg</figcaption>
-</figure>
-
 Trên đây là những gợi ý cho người luôn chân luôn tay thôi. 5 phút chúng ta có thể chẳng cần làm gì cả, ngồi thở và tận hưởng rằng mình đang sống cũng rất vui rồi.
