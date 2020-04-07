@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://kiendotcc.netlify.com',
+  url: 'https://kienoi.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Kien Tran',
   subtitle: 'Ghi lại chuỗi ngày lớn lên và phát triển của bản thân',
