@@ -1,7 +1,8 @@
 ---
-title: "Contact me"
-template: "page"
-socialImage: "/media/image-4.jpg"
+template: page
+title: Contact me
+socialImage: /media/image-4.jpg
+slug: contact
+draft: false
 ---
-![Contact with us - Kien Tran Blog](/media/banner_contact.jpg)
-*Do something great - unsplash.com*
+![](/media/banner_contact.jpg)
