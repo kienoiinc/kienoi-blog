@@ -13,3 +13,15 @@ tags:
   - Ăn ngon
 ---
 ![Hôm nay ăn gì? Kien Blog](/media/foods.png "Hôm nay ăn gì? Bánh Xèo và Bánh Khọt")
+
+Đang trong giai đoạn WFH nên ..
+
+
+
+
+
+![](/media/banhxeo-banhkhot.jpg)
+
+.
+
+.
