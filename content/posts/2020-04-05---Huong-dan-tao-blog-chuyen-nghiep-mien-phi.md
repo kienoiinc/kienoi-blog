@@ -1,19 +1,23 @@
 ---
-title: Huong dan tao blog chuyen nghiep mien phi
-date: "2020-04-05T22:56:00"
-template: "post"
+template: post
+slug: huong-dan-tao-blog-chuyen-nghiep/
 draft: false
-slug: "huong-dan-tao-blog-chuyen-nghiep/"
-category: "Blog Tips"
+socialImage: /media/Tao_blog_banner.png
+title: Hướng dẫn tạo blog chuyên nghiệp cho dân mê Viết
+date: '2020-04-05T22:56:00'
+description: >-
+  Are you spend more money on hosting, domain, and design a theme for your
+  website/blog. In this article, I will show you how to create a professional
+  blog with zero cost.
+category: Blog Tips
 tags:
-  - "Blog Tips"
-  - "Hosting"
-  - "Domain"
-description: "Are you spend more money on hosting, domain, and design a theme for your website/blog. In this article, I will show you how to create a professional blog with zero cost."
-socialImage: "/media/Tao_blog_banner.png"
+  - Blog Tips
+  - Hosting
+  - Domain
+  - Blog cùng Kiên
+  - Hướng dẫn làm Blog
 ---
-
-![Banner blog](/media/Tao_blog_banner.png)
+![Hướng dẫn tạo blog chuyên nghiệp cho người thích viết](/media/hd_tao_blog.png)
 
 Are you spend more money on hosting, domain, and design a theme for your website/blog. In this article, I will show you how to create a professional blog with zero cost.
 
