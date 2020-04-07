@@ -1,19 +1,21 @@
 ---
-title: "Nếu có 5 phút rảnh rỗi, mọi người sẽ làm gì?"
-date: "2020-04-05T09:00:00"
 template: post
+slug: neu-co-5-phut-ranh-roi-moi-nguoi-se-lam-gi/
 draft: false
-slug: "neu-co-5-phut-ranh-roi-moi-nguoi-se-lam-gi/"
-category: "Motivation"
+socialImage: /media/banner_2020-04-05T09.png
+title: 'Nếu có 5 phút rảnh rỗi, mọi người sẽ làm gì?'
+date: '2020-04-05T09:00:00'
+description: >-
+  Bạn làm gì khi có 5 phút thời gian rảnh rỗi, người khác làm gì trong 5 phút
+  đó?. Hãy phát triển bản thân cùng với Kienoi nhé.
+category: Motivation
 tags:
-  - "Motivation"
-  - "Life"
-  - "Improve your life"
-description: "Bạn làm gì khi có 5 phút thời gian rảnh rỗi, người khác làm gì trong 5 phút đó?. Hãy phát triển bản thân cùng với Kienoi nhé."
-socialImage: "/media/banner_2020-04-05T09.png"
+  - Motivation
+  - Life
+  - Improve your life
 ---
-![5 Minutes](/media/banner_2020-04-05T09.jpg)
-*Bạn làm gì khi có 5 phút thời gian rảnh rỗi, người khác làm gì trong 5 phút đó?. Hãy phát triển bản thân cùng với Kienoi nhé.*
+![ *Bạn làm gì khi có 5 phút thời gian rảnh rỗi, người khác làm gì trong 5 phút đó?. Hãy phát triển bản thân cùng với Kienoi nhé.*](/media/1.jpg " *Bạn làm gì khi có 5 phút thời gian rảnh rỗi, người khác làm gì trong 5 phút đó?. Hãy phát triển bản thân cùng với Kienoi nhé.*")
+
 ## 1. Download một phần mềm personal asistant
 
 Nếu bạn đang làm leader ở một câu lạc bộ hay quản lý nhiều dự án khác nhau ở chỗ làm, chắc đã có lúc bạn cảm thấy rất stress vì công việc đúng không. Thế thì tại sao không thử download một vài app hay ho giúp bạn quản lý công việc cá nhân nhỉ. Một số app mình gợi ý dưới đây hoàn toàn miễn phí, giúp bạn sắp sếp công việc như vừa tuyển được cô trợ lý xin đẹp vậy ý.
@@ -63,6 +65,7 @@ Nếu bạn chưa tự tin lắm vào CV của mình, có thể gửi tới chuy
 ## 11. Nghe nhạc giúp bạn tập trung hơn
 
 Tips này dành riêng cho bạn nào hay phải làm việc nơi đông người hoặc ở các Co-working space mà cần có không gian riêng để tập trung làm việc, các bạn có thể thử tham khảo nghe nhạc ở [trang này](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.noisli.com%2F%3Ffbclid%3DIwAR390ZXplo7FCS7fGaLychvoDaRfB8wVtUQfCERxMVSJfOpModNhHbLMXUg&h=AT07yL7Wpl3-7HN-z7nO_CvQkVy0kr2GrP6Ci7ptZXYGAnghQiOh5_b3-sLpJDxCUEqs1WkhNjHDpetavZB_VuQupYYmTnkcdBBhXdTI3_ZLhpGvm-7q0xj5UJdZUZo-eQnrRd4wzrzUXN4wDllpBQ) xem. Cắm tai nghe vào và mở maximum, tận hưởng không gian thiên nhiên giúp bạn làm việc hiệu quả hơn.
+
 <figure class="float-right" style="width: 240px">
 	<img src="/media/left_2020-04-05T09.jpg" alt="Kienoi">
 	<figcaption>Johannes Gutenberg</figcaption>
