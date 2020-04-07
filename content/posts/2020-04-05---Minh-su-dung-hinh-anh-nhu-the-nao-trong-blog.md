@@ -1,20 +1,20 @@
 ---
-title: "Mình sử dụng hình ảnh như thế nào trong blog?"
-date: "2020-04-05T09:56:00"
 template: post
+slug: minh-su-dung-hinh-anh-nhu-the-nao-trong-blog/
 draft: false
-slug: "minh-su-dung-hinh-anh-nhu-the-nao-trong-blog/"
-category: "Cách tạo blog"
+socialImage: /media/anh_bia_20200405_095600.png
+title: Mình sử dụng hình ảnh như thế nào trong blog?
+date: '2020-04-05T09:56:00'
+description: >-
+  Chuỗi bài về cách tạo blog, hôm nay mình sẽ viết tiếp đến một phần cũng rất
+  quan trọng trong blog, đó là việc sử dụng hình ảnh trong blog.
+category: Cách tạo blog
 tags:
-  - "Cách tạo blog"
-  - "Tip"
-  - "Blogger"
-description: "Chuỗi bài về cách tạo blog, hôm nay mình sẽ viết tiếp đến một phần cũng rất quan trọng trong blog, đó là việc sử dụng hình ảnh trong blog."
-socialImage: "/media/anh_bia_20200405_095600.png"
+  - Cách tạo blog
+  - Tip
+  - Blogger
 ---
-
-![Mình sử dụng hình ảnh như thế nào trong blog?](/media/anh_bia_20200405_095600.jpg)
-*Mình sử dụng hình ảnh như thế nào trong blog?*
+![Hướng dẫn tạo ảnh bìa cho bài post ](/media/anh_bia.jpg)
 
 Tiếp tục chuỗi bài về cách tạo blog, hôm nay mình sẽ viết tiếp đến một phần cũng rất quan trọng trong blog, đó là việc sử dụng hình ảnh. Như mình đã nói ở các bài viết trước việc sử dụng hình ảnh tốt sẽ thể hiện sự chuyên nghiệp hơn trong thiết kế, sự đầu tư của bạn vào bài viết và đặc biệt là hình ảnh đẹp sẽ thu hút độc giả hơn. Và tất nhiên mình không phải một desinger chuyên nghiệp, tuy nhiên mình tin những chia sẻ của mình sẽ phù hợp cho những bạn mới bắt đầu muốn học thiết kế đơn giản và không định hướng trở thành một designer. Trong bài viết có chia sẻ về cách học thiết kế cơ bản nên các bạn nhớ đọc hết nhé.
 
@@ -25,7 +25,6 @@ Vậy trước tiên mình sẽ thống kê những nguồn ảnh bạn có th�
 **unsplash.com**: Trang này thì chỉ có ảnh chụp thôi, tuy nhiên ảnh chụp rất đẹp, chất lượng tốt, cũng khá nhiều ảnh nhìn lạ. Và theo lời recommend của bạn mình thì có thể dùng cho mục đích thương mại. Cũng có một số trang khác tương tự như này, ví dụ như: Pixabay, 
 
 **Freepik.com**: Mình rất thích trang này, thứ nhất là bạn có thể dùng miễn phí và có rất nhiều hình ảnh icon, ảnh vẽ đẹp. Có thể nói lúc phát hiện ra trang này mình siêu siêu ưng.
-
 
 ## 1. Nguồn ảnh không có bản quyền trên các trang web
 
@@ -44,7 +43,6 @@ Ngày nay, việc thiết kế đã trở nên đơn giản đến mức bạn k
 Có rất nhiều công cụ thiết kế website đơn giản như **canva** và **design bold** cho bạn lựa chọn, đặc biệt là các công cụ này miễn phí, quá tuyệt đúng không. Hai công cụ này mỗi bên đều có ưu nhược điểm riêng, với mình thích **canva** hơn vì hình ảnh thiết kế mẫu trông đẹp và chuyên nghiệp hơn, web design đẹp và chạy cũng mượt hơn. Tuy nhiên, bên design bold bạn có thể update thêm phông chữ ngoài các phông có sẵn nên linh hoạt hơn trong thiết kế.
 
 Tất nhiên, để có thể thiết kế được những hình ảnh đẹp thì tất nhiên bạn cần học thêm một chút về thiết kế. Đặc biệt là những kiến thức cơ bản nhất để bạn có tư duy và con mắt của một người thiết kế (không chuyên) và sự chuyên cần.
-
 
 ## Kết
 
