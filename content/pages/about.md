@@ -1,7 +1,9 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/welcome.jpg"
+template: page
+title: About me
+socialImage: /media/welcome.jpg
+slug: about
+draft: false
 ---
 
 ![Welcome](/media/welcome.jpg)
