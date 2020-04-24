@@ -33,6 +33,7 @@ I currently working as solution development in building BPO, Data Entry solution
 
 Skills utilized: BPMN, API, Webservices, JSON/XML, OCR, ML/AI, Network, DevOps, CI/CD, and Security.
 
+See me in [Linkedin](https://www.linkedin.com/in/kienoiinc/)
 
 
 
