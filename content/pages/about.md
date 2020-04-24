@@ -6,8 +6,7 @@ slug: about
 draft: false
 ---
 ![Welcome](/media/welcome.jpg)
-
-*Welcome to my website, I hope that you can find what you want or just know a litter bit about me! I hope so*
+<center>*Blog by Kienoi - Website Kienoi.com.*</center>
 
 #About
 
@@ -21,5 +20,19 @@ Since 2015, he has been working internationally in various domains including tel
 * Work-life integration styles.
 
 #Experience
+##Solution Development Engineer
+DIGI-TEXX VIETNAM
+Oct 2019 - Present
+
+I currently working as solution development in building BPO, Data Entry solutions and provide data entry solutions consultant for Vietnam market.
+- Conduct study, elicit customer jobs to understand their pain, gain and expectation.
+- Create the technical proposal, estimate size, effort, resources and cost and support in commercial proposal to acquire new projects.
+- Explore new technology and solution, propose new ideas on system and process improvements.
+- Testing and Measurement.
+- Work on delivering POCs to support new ideas and innovation
+
+Skills utilized: BPMN, API, Webservices, JSON/XML, OCR, ML/AI, Network, DevOps, CI/CD, and Security.
+
+
 
 
