@@ -6,7 +6,7 @@ slug: about
 draft: false
 ---
 ![Welcome](/media/welcome.jpg)
-<center>*Blog by Kienoi - Website Kienoi.com.*</center>
+<center>*Welcome to my website, I hope that you can find what you want or just know a litter bit about me! I hope so - Blog by Kienoi - Website Kienoi.com.*</center>
 
 #About
 
