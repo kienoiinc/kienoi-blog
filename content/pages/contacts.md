@@ -169,33 +169,37 @@ button, input {
 }
 </style>
 
-<form method="POST" data-netlify="true" action="/pages/tks">
 <div class="background">
   <div class="container">
     <div class="screen">
       <div class="screen-body">
         <div class="screen-body-item">
           <div class="app-form">
-            <div class="app-form-group">
-              <input class="app-form-control" placeholder="NAME">
-            </div>
-            <div class="app-form-group">
-              <input class="app-form-control" placeholder="EMAIL">
-            </div>
-            <div class="app-form-group">
-              <input class="app-form-control" placeholder="PHONE NO">
-            </div>
-            <div class="app-form-group message">
-              <input class="app-form-control" placeholder="MESSAGE">
-            </div>
-            <div class="app-form-group buttons">
-              <button type="submit" class="app-form-button">SEND</button>
-            </div>
+            <form method="POST" data-netlify="true" data-netlify-homeypot="bot-field" action="/pages/tks">
+              <input type="hidden" name="bot-field" />
+              <input type="hidden" name="form-name" value="contact" />
+              <div class="app-form-group">
+                <input class="app-form-control" placeholder="NAME">
+              </div>
+              <div class="app-form-group">
+                <input class="app-form-control" placeholder="EMAIL">
+              </div>
+              <div class="app-form-group">
+                <input class="app-form-control" placeholder="PHONE NO">
+              </div>
+              <div class="app-form-group message">
+                <input class="app-form-control" placeholder="MESSAGE">
+              </div>
+              <div class="app-form-group buttons">
+                <button type="submit" class="app-form-button">SEND</button>
+                <button type="reset" class="app-form-button">CLEAR</button>
+              </div>
+            </form>  
           </div>
         </div>
       </div>
     </div>
   </div>
 </div>
-</form>
+
 
