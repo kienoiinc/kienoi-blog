@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© Kienoi.com. All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-164597521-1',
   useKatex: false,
   menu: [
     {
