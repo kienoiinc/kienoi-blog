@@ -1,7 +1,7 @@
 ---
 template: post
 title: BRS - Boost Recuperation System
-slug: BRS - Boost Recuperation System
+slug: BRS-Boost-Recuperation-System
 draft: false
 date: 2020-04-24T09:53:50.989Z
 description: |-

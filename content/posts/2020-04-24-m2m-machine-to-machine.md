@@ -1,7 +1,7 @@
 ---
 template: post
 title: M2M - Machine to machine
-slug: M2M - Machine to machine
+slug: M2M-Machine-to-machine
 draft: false
 date: 2020-04-24T09:55:29.587Z
 description: >
