@@ -23,7 +23,7 @@ Since 2015, he has been working internationally in various domains including tel
 - [Solution Development Engineer @ DIGI-TEXX](#digi-texx-vietnam)
 - [Software Test Engineer @ HELA](#hella-vietnam)
 - [Automotive Embedded Software Test Engineer @ BOSCH](#robert-bosch-engineering-and-business-solution-vietnam)
-- [Software Test Engineer @ MDN Saviwave](#MDN-Saviwave)
+- [Software Test Engineer @ MDN Saviwave](#mdn-saviwave)
 
 ###DIGI-TEXX Vietnam
 Anna Building, QTSC, District 12, HCM\
