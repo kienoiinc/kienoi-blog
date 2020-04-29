@@ -18,7 +18,6 @@ Since 2015, he has been working internationally in various domains including tel
 * Work-life integration styles.
 
 ---
-
 ##Experience
 - [Solution Development Engineer @ DIGI-TEXX](#digi-texx-vietnam)
 - [Software Test Engineer @ HELA](#hella-vietnam)
