@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://kienoi.netlify.com',
+  url: 'https://www.kienoi.com',
   pathPrefix: '/',
   title: 'Kienoi - Blog by Kien Tran | Kienoi.com',
   subtitle: 'Ghi lại chuỗi ngày lớn lên và phát triển của bản thân',
   copyright: '© Kienoi.com. All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 8,
   googleAnalyticsId: 'UA-164597521-1',
   useKatex: false,
   menu: [
@@ -18,6 +18,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Library',
+      path: '/pages/learning-resource-center'
     },
     {
       label: 'Contact me',
