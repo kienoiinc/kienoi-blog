@@ -4,11 +4,11 @@ title: My Learning Resource Center
 slug: learning-resource-center
 draft: false
 ---
+![Learn something new - Kienoi](/media/learn-something-new.png "Learn something new - LRC/Kienoi")
+
 LRC @ Kienoi - Here I will upload the book I was read before. It is a place I keep it and where I can find it when I want to read again.
 
 If you are interesting in my LRC or you have a book and want to share it with me. Please feel free and send it to me via [kien@kienoi.com](mailto:kien@kienoi.com).
-
-![Learn something new - Kienoi](/media/learn-something-new.png "Learn something new - LRC/Kienoi")
 
 ## Business Analysis Book
 
